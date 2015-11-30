@@ -1,0 +1,1 @@
+用R写的代码，不过大部分我都写了注释，看不看无所谓吧。给你的数据是preprocessed data for deep learning.csv
